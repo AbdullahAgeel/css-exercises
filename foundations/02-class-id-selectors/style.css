@@ -1,0 +1,21 @@
+.Odd {
+    background-color: rgba(235, 86, 188, 0.892);
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+    
+}
+
+.Odd.special{
+    font-size: 24px;
+}
+
+#even1 {
+    color: rgb(0, 50, 215);
+    font-size: 36px;
+
+}
+
+#even2 {
+    background-color: rgb(94, 245, 101);
+    font-size: 24px;
+    font-weight: bold;
+}
